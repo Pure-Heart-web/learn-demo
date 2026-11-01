@@ -1,0 +1,7 @@
+阶段,人员,任务,状态,关键验收项总数,通过项,未核验项,阻断级错误数,原开发者实质协助次数,本人总工时分钟,AI相关直接成本元,创始人监督分钟,第三方复核是否通过,备注
+S0,A,安全走读,NOT_EXECUTED,,,,,,,,,UNVERIFIED,
+S0,B,安全走读,NOT_EXECUTED,,,,,,,,,UNVERIFIED,
+G1,A,技术原任务复制,NOT_EXECUTED,,,,,,,,,UNVERIFIED,
+G1,B,业务原任务复制,NOT_EXECUTED,,,,,,,,,UNVERIFIED,
+G2,A,技术隐藏任务迁移,NOT_EXECUTED,,,,,,,,,UNVERIFIED,
+G2,B,业务隐藏任务迁移,NOT_EXECUTED,,,,,,,,,UNVERIFIED,

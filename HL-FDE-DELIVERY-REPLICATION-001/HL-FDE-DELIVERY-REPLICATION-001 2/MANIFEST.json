@@ -1,0 +1,141 @@
+{
+  "project": "HL-FDE-DELIVERY-REPLICATION-001",
+  "status": "PREPARED-NOT_AUTHORIZED",
+  "files": [
+    {
+      "file": "01-学员分发/00-给学员的任务书.md",
+      "sha256": "0aa4b19f3ab67e8618a413e7a9a7923aecd9b8159f9015c50d6f64fac751911f",
+      "bytes": 1641
+    },
+    {
+      "file": "01-学员分发/01-前置准入门.md",
+      "sha256": "4f45bef52ba806d1b3425b321037ef303e3cd2afca6938fb10090e3818c049bf",
+      "bytes": 1438
+    },
+    {
+      "file": "01-学员分发/02-A技术_G1原任务复制.md",
+      "sha256": "7b74262c6a52ca211ea9f68dc1dc83fece0c260c477d078c6dd9395ef0986751",
+      "bytes": 2565
+    },
+    {
+      "file": "01-学员分发/03-B实施_G1原任务复制.md",
+      "sha256": "f11ed60b715b9c7178a6161d493ea23d66ddc7ee3dd47b07e85615d65ea0e16e",
+      "bytes": 2426
+    },
+    {
+      "file": "01-学员分发/04-个人工作与成本日志.csv",
+      "sha256": "a77bc2ad32707c720673168424a2efd9b5003e7e25d3e097bdf1d3672ed5aa21",
+      "bytes": 329
+    },
+    {
+      "file": "01-学员分发/05-结果与证据索引.csv",
+      "sha256": "5eec720d6dd69f8b05e480d4f3b47469b99809619eb94db161447d015bfe45ca",
+      "bytes": 524
+    },
+    {
+      "file": "01-学员分发/06-跨岗位交接模板.md",
+      "sha256": "ac360acbe3f33994dbbd2f3bad14843fdcd4d24762391d804440a433c1514a00",
+      "bytes": 723
+    },
+    {
+      "file": "01-学员分发/07-个人判断与反例.md",
+      "sha256": "9c18de7c2005ed7df8be8e3e81e29c279b1bf18e27e8b5c793a4c932fe7f9b24",
+      "bytes": 678
+    },
+    {
+      "file": "01-学员分发/原安全走读卡/A-原技术走读卡.md",
+      "sha256": "d0a05f144131ffccae732404fec35979286eca62abe07432f5cd1a878df5931b",
+      "bytes": 7194
+    },
+    {
+      "file": "01-学员分发/原安全走读卡/B-原实施走读卡.md",
+      "sha256": "e80213c65b822795f13cb3d5e33c2a1a729a1ae539951ca5b52d88fdf9fd1272",
+      "bytes": 7602
+    },
+    {
+      "file": "01-学员分发/学员文件清单.json",
+      "sha256": "803a852c8cfa961f92610debf93d902e1ef56d933618ec4ae383439514dc2d04",
+      "bytes": 1700
+    },
+    {
+      "file": "02-考官专用/00-考官操作说明.md",
+      "sha256": "a85838e4205652775dc864b1423d0e1c1a095ed8a5247e8f573793bccda38ed6",
+      "bytes": 1569
+    },
+    {
+      "file": "02-考官专用/01-放行标准与评分.md",
+      "sha256": "fda1d3273a5e3f4602714eb2f65d56dbd16d0cf0d0da1c1e63371fa6724c9b9a",
+      "bytes": 1755
+    },
+    {
+      "file": "02-考官专用/02-G2技术密封题_考官发放.md",
+      "sha256": "48c1b47f03a4f00a34f41e7f3e987376dbccf3fb5206838cf9fc763b323d0a25",
+      "bytes": 1955
+    },
+    {
+      "file": "02-考官专用/03-G2实施密封题_考官发放.md",
+      "sha256": "ea68d79390b7693deca7cb61222a4ce97740028a21604520e21ccf179e69a885",
+      "bytes": 1734
+    },
+    {
+      "file": "02-考官专用/04-G2判题与参考核验.md",
+      "sha256": "fcab0f584b011b58c4c76cc581aeef5758301299d1c6aa25cd45f34c19a9a8a4",
+      "bytes": 1591
+    },
+    {
+      "file": "02-考官专用/05-独立复核记录.md",
+      "sha256": "a5f6d4124b30fc95d6dd174b6117579249766f82b0b76c641cfb533701121fb1",
+      "bytes": 625
+    },
+    {
+      "file": "02-考官专用/06-正式授权申请模板.md",
+      "sha256": "ad3441b13886b56303daf194a91289e0966a80986b40571cd810a6775631e537",
+      "bytes": 916
+    },
+    {
+      "file": "02-考官专用/07-评审汇总表.csv",
+      "sha256": "f5618af5135d89e3be56c6a6f78b9fbe754d3ec274b9f7edd052fb98aab4eea5",
+      "bytes": 574
+    },
+    {
+      "file": "02-考官专用/08-第一轮会务安排.md",
+      "sha256": "4129ff6a92e0ebf2cc7fd711af99b50e8ef677946125d69d4b1aa05e5a2a84ac",
+      "bytes": 1475
+    },
+    {
+      "file": "02-考官专用/09-经营复盘口径.md",
+      "sha256": "010fa3511ae59c123fdd44a81b6d17ff16a6c337a279cc1d8efa902a69b9751f",
+      "bytes": 1430
+    },
+    {
+      "file": "03-原始材料只读副本/A-原技术走读卡.md",
+      "sha256": "d0a05f144131ffccae732404fec35979286eca62abe07432f5cd1a878df5931b",
+      "bytes": 7194
+    },
+    {
+      "file": "03-原始材料只读副本/B-原实施走读卡.md",
+      "sha256": "e80213c65b822795f13cb3d5e33c2a1a729a1ae539951ca5b52d88fdf9fd1272",
+      "bytes": 7602
+    },
+    {
+      "file": "03-原始材料只读副本/C-原主持评分表.md",
+      "sha256": "22f77a961ffd8b0ec71f4c1b54c9f36d6a7bf3ed129343ef3c1ee6c4e21aa372",
+      "bytes": 7435
+    },
+    {
+      "file": "03-原始材料只读副本/D-原设备隔离表.md",
+      "sha256": "a5c8625964cc83eed52e9af23c4376483477524452a073919271119bbea64846",
+      "bytes": 8731
+    },
+    {
+      "file": "03-原始材料只读副本/E-原放行模板.md",
+      "sha256": "85a20bb92be0db9f7461f5023e83d82f77f120bb4fd711dc4984553640a10168",
+      "bytes": 4478
+    },
+    {
+      "file": "README.md",
+      "sha256": "2607615e3b0f25b28b3ba399b7ffb22674a96f429ffbe8a70e8dc71a14a98a1a",
+      "bytes": 2121
+    }
+  ]
+}
